@@ -3,4 +3,4 @@ The deployed version of project tandem, repos main and beta are honored
 
 Changes pushed to these two branches will be reflected on the beta site as soon as GitHub invokes the webhook (a few seconds).
 
-Test changes. Two in a row? Three? 4th time for sure. 5th. Routing is hard, 6th! Logging better now? More logging...
+Test changes. Two in a row? Three? 4th time for sure. 5th. Routing is hard, 6th! Logging better now? More logging... verify signature.
